@@ -19,9 +19,9 @@ gem 'foreman', '~> 0.82.0'
 gem 'dotenv-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-gem 'rest-client'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'active_model_serializers'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
