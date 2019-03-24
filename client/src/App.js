@@ -1,25 +1,38 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import SelectedCompanies from './SelectedCompanies';
+import CompanySearch from './CompanySearch';
 
 class App extends Component {
+  state = {
+    selectedCompanies: [],
+  }
+
+  removeCompanyItem = (itemIndex) => {
+    const filteredCompanies = this.state.selectedCompanies.filter(
+      (item, idx) => itemIndex !== idx,
+    );
+    this.setState({ selectedCompanies: filteredCompanies });
+  }
+
+  addCompany = (company) => {
+    const newCompanies = this.state.selectedCompanies.concat(company);
+    this.setState({ selectedCompanies: newCompanies });
+  }
+
   render() {
+    const { selectedCompanies } = this.state;
+
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div className='App'>
+        <div>
+          <SelectedCompanies
+            companies={selectedCompanies}
+            onCompanyClick={this.removeCompanyItem}
+          />
+          <CompanySearch
+            onCompanyClick={this.addCompany}
+          />
+        </div>
       </div>
     );
   }
