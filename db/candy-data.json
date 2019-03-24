@@ -1,0 +1,1306 @@
+{
+  "result": {
+      "totalrows": 7,
+      "rows": [
+          {
+              "rownum": 1,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "HERSHEY CO"
+                  },
+                  {
+                      "field": "primarysymbol",
+                      "value": "HSY"
+                  },
+                  {
+                      "field": "primaryexchange",
+                      "value": "NYSE"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "2/22/2019"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "12/31/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 7791069000
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 4215744000
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 3575325000
+                  },
+                  {
+                      "field": "ebit",
+                      "value": 1623664000
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": 1410061000
+                  },
+                  {
+                      "field": "netincome",
+                      "value": 1177562000
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 587998000
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 587998000
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 784879000
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 2239181000
+                  },
+                  {
+                      "field": "intangibleassets",
+                      "value": 1278292000
+                  },
+                  {
+                      "field": "propertyplantequipmentnet",
+                      "value": 2130294000
+                  },
+                  {
+                      "field": "goodwill",
+                      "value": 1801103000
+                  },
+                  {
+                      "field": "otherassets",
+                      "value": 252984000
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 7703020000
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 1203316000
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 2418566000
+                  },
+                  {
+                      "field": "otherliabilities",
+                      "value": 446048000
+                  },
+                  {
+                      "field": "totallongtermdebt",
+                      "value": 3254280000
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 6304299000
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": 7032020000
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": 1398721000
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": 1599993000
+                  },
+                  {
+                      "field": "cashfrominvestingactivities",
+                      "value": -1502894000
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": 116108000
+                  },
+                  {
+                      "field": "capitalexpenditures",
+                      "value": -328601000
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 295144000
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": 207819000
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "USD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 1
+                  }
+              ]
+          },
+          {
+              "rownum": 2,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "SANFILIPPO JOHN B & SON INC"
+                  },
+                  {
+                      "field": "primarysymbol",
+                      "value": "JBSS"
+                  },
+                  {
+                      "field": "primaryexchange",
+                      "value": "Nasdaq Global Market"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "8/22/2018"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "6/28/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 888595000
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 749776000
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 138819000
+                  },
+                  {
+                      "field": "ebit",
+                      "value": 56109000
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": 49270000
+                  },
+                  {
+                      "field": "netincome",
+                      "value": 32420000
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 1449000
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 1449000
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 174618000
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 247802000
+                  },
+                  {
+                      "field": "intangibleassets",
+                      "value": 17654000
+                  },
+                  {
+                      "field": "propertyplantequipmentnet",
+                      "value": 125078000
+                  },
+                  {
+                      "field": "goodwill",
+                      "value": 9650000
+                  },
+                  {
+                      "field": "otherassets",
+                      "value": 10565000
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 415773000
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 40509000
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 117193000
+                  },
+                  {
+                      "field": "otherliabilities",
+                      "value": 7014000
+                  },
+                  {
+                      "field": "totallongtermdebt",
+                      "value": 27356000
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 172851000
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": 127240000
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": 242922000
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": 66154000
+                  },
+                  {
+                      "field": "cashfrominvestingactivities",
+                      "value": -34968000
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": -31692000
+                  },
+                  {
+                      "field": "capitalexpenditures",
+                      "value": -13229000
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 15430000
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": -506000
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "USD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 1
+                  }
+              ]
+          },
+          {
+              "rownum": 3,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "NIGHTFOOD HOLDINGS, INC."
+                  },
+                  {
+                      "field": "primarysymbol",
+                      "value": "NGTF"
+                  },
+                  {
+                      "field": "primaryexchange",
+                      "value": "OTC"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "9/28/2018"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "6/30/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 196742
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 116158
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 80584
+                  },
+                  {
+                      "field": "ebit",
+                      "value": -1838048
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": -5239493
+                  },
+                  {
+                      "field": "netincome",
+                      "value": -5239493
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 48440
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 48440
+                  },
+                  {
+                      "field": "othercurrentassets",
+                      "value": 3210
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 103209
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 154859
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 154859
+                  },
+                  {
+                      "field": "othercurrentliabilities",
+                      "value": 1765187
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 634870
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 2813813
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 2813813
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": -8620714
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": -2658954
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": -1757638
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": 1791752
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 2776811
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": 34114
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "USD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 1
+                  }
+              ]
+          },
+          {
+              "rownum": 4,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "ROCKY MOUNTAIN CHOCOLATE FACTORY, INC."
+                  },
+                  {
+                      "field": "primarysymbol",
+                      "value": "RMCF"
+                  },
+                  {
+                      "field": "primaryexchange",
+                      "value": "Nasdaq Global Market"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "5/15/2018"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "2/28/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 38074695
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 21176711
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 16897984
+                  },
+                  {
+                      "field": "ebit",
+                      "value": 5220869
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": 5124203
+                  },
+                  {
+                      "field": "netincome",
+                      "value": 2963908
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 6072984
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 6072984
+                  },
+                  {
+                      "field": "othercurrentassets",
+                      "value": 310173
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 4842474
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 15571368
+                  },
+                  {
+                      "field": "intangibleassets",
+                      "value": 5021304
+                  },
+                  {
+                      "field": "propertyplantequipmentnet",
+                      "value": 6166240
+                  },
+                  {
+                      "field": "goodwill",
+                      "value": 1046944
+                  },
+                  {
+                      "field": "otherassets",
+                      "value": 299316
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 28940635
+                  },
+                  {
+                      "field": "othercurrentliabilities",
+                      "value": 3057131
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 1352893
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 8207616
+                  },
+                  {
+                      "field": "totallongtermdebt",
+                      "value": 1176416
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 9384032
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": 13419553
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": 19556603
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": 4757612
+                  },
+                  {
+                      "field": "cashfrominvestingactivities",
+                      "value": -339517
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": -4124306
+                  },
+                  {
+                      "field": "capitalexpenditures",
+                      "value": -544956
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 1319255
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": 293789
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "USD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 1
+                  }
+              ]
+          },
+          {
+              "rownum": 5,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "NUTRITIONAL HIGH INTL INC."
+                  },
+                  {
+                      "field": "primarysymbol",
+                      "value": "SPLIF"
+                  },
+                  {
+                      "field": "primaryexchange",
+                      "value": "OTC"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "1/17/2019"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "7/31/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 4468391
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 3879737
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 588654
+                  },
+                  {
+                      "field": "ebit",
+                      "value": -5701386
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": -7595540
+                  },
+                  {
+                      "field": "netincome",
+                      "value": -7454928
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 602917
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 2437683
+                  },
+                  {
+                      "field": "othercurrentassets",
+                      "value": 43870
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 993184
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 5674250
+                  },
+                  {
+                      "field": "intangibleassets",
+                      "value": 4906671
+                  },
+                  {
+                      "field": "goodwill",
+                      "value": 3611687
+                  },
+                  {
+                      "field": "otherassets",
+                      "value": 4970903
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 20938214
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 3202571
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 6427486
+                  },
+                  {
+                      "field": "otherliabilities",
+                      "value": 133333
+                  },
+                  {
+                      "field": "totallongtermdebt",
+                      "value": 6138445
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 12687935
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": -15177767
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": 8250279
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": -4100189
+                  },
+                  {
+                      "field": "cashfrominvestingactivities",
+                      "value": -5714686
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": 9083251
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 253796
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": -875375
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K (OTC)"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "CAD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 0.76805
+                  }
+              ]
+          },
+          {
+              "rownum": 6,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "TOOTSIE ROLL INDUSTRIES INC"
+                  },
+                  {
+                      "field": "primarysymbol",
+                      "value": "TR"
+                  },
+                  {
+                      "field": "primaryexchange",
+                      "value": "NYSE"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "3/1/2019"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "12/31/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 518920000
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 330747000
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 188173000
+                  },
+                  {
+                      "field": "ebit",
+                      "value": 70482000
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": 73206000
+                  },
+                  {
+                      "field": "netincome",
+                      "value": 56893000
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 110899000
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 186427000
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 54524000
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 304046000
+                  },
+                  {
+                      "field": "intangibleassets",
+                      "value": 175024000
+                  },
+                  {
+                      "field": "propertyplantequipmentnet",
+                      "value": 186101000
+                  },
+                  {
+                      "field": "goodwill",
+                      "value": 73237000
+                  },
+                  {
+                      "field": "otherassets",
+                      "value": 38022000
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 947361000
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 373000
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 61391000
+                  },
+                  {
+                      "field": "otherliabilities",
+                      "value": 79661000
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 196739000
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": 33767000
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": 750622000
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": 100929000
+                  },
+                  {
+                      "field": "cashfrominvestingactivities",
+                      "value": -44510000
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": -42353000
+                  },
+                  {
+                      "field": "capitalexpenditures",
+                      "value": -27612000
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 20424000
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": 14567000
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "USD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 1
+                  }
+              ]
+          },
+          {
+              "rownum": 7,
+              "values": [
+                  {
+                      "field": "companyname",
+                      "value": "CHASE GENERAL CORP"
+                  },
+                  {
+                      "field": "siccode",
+                      "value": "2060"
+                  },
+                  {
+                      "field": "sicdescription",
+                      "value": "Sugar And Confectionery Products"
+                  },
+                  {
+                      "field": "receiveddate",
+                      "value": "9/26/2018"
+                  },
+                  {
+                      "field": "periodlengthcode",
+                      "value": "m"
+                  },
+                  {
+                      "field": "periodlength",
+                      "value": 12
+                  },
+                  {
+                      "field": "periodenddate",
+                      "value": "6/30/2018"
+                  },
+                  {
+                      "field": "fiscalyear",
+                      "value": 2018
+                  },
+                  {
+                      "field": "fiscalquarter",
+                      "value": 4
+                  },
+                  {
+                      "field": "totalrevenue",
+                      "value": 2680236
+                  },
+                  {
+                      "field": "costofrevenue",
+                      "value": 2085405
+                  },
+                  {
+                      "field": "grossprofit",
+                      "value": 594831
+                  },
+                  {
+                      "field": "ebit",
+                      "value": -264634
+                  },
+                  {
+                      "field": "incomebeforetaxes",
+                      "value": -271263
+                  },
+                  {
+                      "field": "netincome",
+                      "value": -245241
+                  },
+                  {
+                      "field": "cashandcashequivalents",
+                      "value": 2129
+                  },
+                  {
+                      "field": "cashcashequivalentsandshortterminvestments",
+                      "value": 2129
+                  },
+                  {
+                      "field": "inventoriesnet",
+                      "value": 445642
+                  },
+                  {
+                      "field": "totalcurrentassets",
+                      "value": 595327
+                  },
+                  {
+                      "field": "propertyplantequipmentnet",
+                      "value": 235180
+                  },
+                  {
+                      "field": "totalassets",
+                      "value": 830507
+                  },
+                  {
+                      "field": "totalshorttermdebt",
+                      "value": 11224
+                  },
+                  {
+                      "field": "totalcurrentliabilities",
+                      "value": 220246
+                  },
+                  {
+                      "field": "totallongtermdebt",
+                      "value": 24787
+                  },
+                  {
+                      "field": "totalliabilities",
+                      "value": 252499
+                  },
+                  {
+                      "field": "retainedearnings",
+                      "value": -5887988
+                  },
+                  {
+                      "field": "totalstockholdersequity",
+                      "value": 578008
+                  },
+                  {
+                      "field": "cashfromoperatingactivities",
+                      "value": -98384
+                  },
+                  {
+                      "field": "cashfrominvestingactivities",
+                      "value": -38585
+                  },
+                  {
+                      "field": "cashfromfinancingactivities",
+                      "value": -19386
+                  },
+                  {
+                      "field": "capitalexpenditures",
+                      "value": -72585
+                  },
+                  {
+                      "field": "cfdepreciationamortization",
+                      "value": 63905
+                  },
+                  {
+                      "field": "netchangeincash",
+                      "value": -156355
+                  },
+                  {
+                      "field": "formtype",
+                      "value": "10-K"
+                  },
+                  {
+                      "field": "audited",
+                      "value": "true"
+                  },
+                  {
+                      "field": "original",
+                      "value": true
+                  },
+                  {
+                      "field": "amended",
+                      "value": false
+                  },
+                  {
+                      "field": "preliminary",
+                      "value": false
+                  },
+                  {
+                      "field": "currencycode",
+                      "value": "USD"
+                  },
+                  {
+                      "field": "crosscalculated",
+                      "value": false
+                  },
+                  {
+                      "field": "usdconversionrate",
+                      "value": 1
+                  }
+              ]
+          }
+      ]
+  }
+}
