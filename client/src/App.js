@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import SelectedCompanies from './SelectedCompanies';
 import CompanySearch from './CompanySearch';
 
+
 class App extends Component {
   state = {
     selectedCompanies: [],
@@ -24,14 +25,15 @@ class App extends Component {
 
     return (
       <div className='App'>
+        <div className='navbar navbar-dark bg-dark'><CompanySearch
+            onCompanyClick={this.addCompany}
+          /></div>
         <div>
           <SelectedCompanies
             companies={selectedCompanies}
             onCompanyClick={this.removeCompanyItem}
           />
-          <CompanySearch
-            onCompanyClick={this.addCompany}
-          />
+          
         </div>
       </div>
     );

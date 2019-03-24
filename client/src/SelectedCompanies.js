@@ -15,22 +15,11 @@ export default function SelectedCompanies(props) {
   ));
 
   return (
-    <table>
-      <thead>
-        <tr>
-          <th colSpan='5'>
-            <h3>Selected companies</h3>
-          </th>
-        </tr>
-        <tr>
-          <th >Description</th>
-        
-        </tr>
-      </thead>
-      <tbody>
+    
+    <div> Here!
         {companyRows}
-      </tbody>
-    </table>
+        </div>
+    
   );
 }
 
