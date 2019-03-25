@@ -1,12 +1,67 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import { createStore } from 'redux';
+import { connect, Provider } from 'react-redux';
+import responseBlob from './response.json'
+import Client from './Client'
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const initialState = {
+  selectedHouse: null,
+  houses: Client.getCompanies()
+};
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+function reducer(state = initialState, action) {
+  switch (action.type) {
+    case 'SELECT_HOUSE':
+      return {
+        ...state,
+        selectedHouse: action.house.id
+      };
+    default:
+      return state;
+  }
+}
+
+const store = createStore(reducer);
+
+function selectHouse(house) {
+  return {
+    type: 'SELECT_HOUSE',
+    house
+  };
+}
+
+const SchoolAdmin = ({
+  houses,
+  selectedHouse,
+  selectHouse
+}) => (
+  <main>
+    {houses.map(house => (
+      <div
+        key={house.id}
+        onClick={() => selectHouse(house)}
+      >
+        <div>{house.companyname}</div>
+
+      </div>
+    ))}
+  </main>
+);
+
+const mapState = state => ({
+  houses: Object.values(state.houses),
+  selectedHouse: state.selectedHouse
+});
+
+const ConnectedApp = connect(
+  mapState,
+  { selectHouse}
+)(SchoolAdmin);
+
+ReactDOM.render(
+  <Provider store={store}>
+    <ConnectedApp />
+  </Provider>,
+  document.querySelector('#root')
+);

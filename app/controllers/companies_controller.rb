@@ -1,5 +1,5 @@
 class CompaniesController < ApplicationController
-  def index
+  def search
     q = params[:q]
     if q.blank?
       render status: 400, json: { error: 'Expected parameter `q` '}
@@ -10,4 +10,10 @@ class CompaniesController < ApplicationController
       )
     end
   end
+  
+  def index 
+    @companies = Company.all 
+    render json: @companies
+  end 
+
 end
